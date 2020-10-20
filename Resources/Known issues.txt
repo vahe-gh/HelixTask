@@ -1,0 +1,5 @@
+Known issues
+
+At first run and after changing orientation, iPhone shows detail view controller. I have tried disable it by using UISplitViewControllerDelegate and setting preferredDisplayMode to .allVisible and other tricks, but nothing worked.
+
+Navigating to detail view controller does not work on iPhone in portrait mode
